@@ -1,4 +1,3 @@
-'''
 # Exercise 0: Example
 #
 # This is a practice exercise to help you understand how to write code "inside" a provided Python function.
@@ -152,7 +151,6 @@ def weather_advice():
 # Call the function
 weather_advice()
 
-'''
 
 # Exercise 5: What's the Season?
 #
@@ -193,3 +191,4 @@ def determine_season():
 
 # Call the function
 determine_season()
+
